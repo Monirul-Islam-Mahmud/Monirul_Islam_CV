@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.header {
+  border: 1px solid black;
+  margin: 40px;
+  padding: 20px;
+}
+
+.header h1 {
+  font-family: Merriweather;
+  color: rgb(139, 21, 21);
+  font-weight: bold;
+}
+.header h3 {
+  font-family: Merriweather;
+}
+.header h6 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.education {
+  margin: 40px;
+}
+
+.education h2 {
+  font-family: merriweather;
+  font-weight: bold;
+  font-size: 27px;
+  color: rgb(139, 21, 21);
+}
+.education h3 {
+  color: rgb(107, 72, 172);
+  font-size: 21px;
+}
+.education h5 {
+  font-size: 17px;
+  color: rgb(121, 118, 118);
+  font-weight: bold;
+  font-family: "Times New Roman";
+}
+.education h6 {
+  font-size: 15px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.skill {
+  margin: 40px;
+}
+.skill h5 {
+  color: rgb(105, 101, 101);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 19px;
+}
+.number {
+  margin-left: 20px;
+}
+
+.experience {
+  margin: 40px;
+}
+.experience h3 {
+  font-size: 20px;
+  color: rgb(245, 46, 46);
+  font-weight: bold;
+  font-family: "Times New Roman";
+}
+.experience h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: rgb(116, 115, 115);
+  font-weight: bold;
+}
+.experience h5 {
+  font-family: "Times New Roman", Times, serif;
+  color: grey;
+  font-size: 17px;
+}
+
+.award {
+  margin: 40px;
+}
+.award h5 {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(102, 99, 99);
+  font-size: 18px;
+}
+
+.project {
+  margin: 40px;
+}
+.project h5 {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(102, 99, 99);
+  font-size: 18px;
+}
+
+.reference {
+  margin: 40px;
+}
+
+.reference h5 {
+  color: grey;
+  font-size: 19px;
+  font-family: "Times New Roman", Times, serif;
+}
